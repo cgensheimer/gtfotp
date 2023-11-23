@@ -14,6 +14,8 @@
 		7CEB1A452B0F1C2C000BDBBA /* gtfotpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CEB1A442B0F1C2C000BDBBA /* gtfotpTests.swift */; };
 		7CEB1A4F2B0F1C2C000BDBBA /* gtfotpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CEB1A4E2B0F1C2C000BDBBA /* gtfotpUITests.swift */; };
 		7CEB1A512B0F1C2C000BDBBA /* gtfotpUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CEB1A502B0F1C2C000BDBBA /* gtfotpUITestsLaunchTests.swift */; };
+		7CEB1A5E2B0F1D8E000BDBBA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7CEB1A5D2B0F1D8E000BDBBA /* README.md */; };
+		7CEB1A602B0F1DBE000BDBBA /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7CEB1A5F2B0F1DBE000BDBBA /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		7CEB1A4A2B0F1C2C000BDBBA /* gtfotpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gtfotpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CEB1A4E2B0F1C2C000BDBBA /* gtfotpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gtfotpUITests.swift; sourceTree = "<group>"; };
 		7CEB1A502B0F1C2C000BDBBA /* gtfotpUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gtfotpUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7CEB1A5D2B0F1D8E000BDBBA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7CEB1A5F2B0F1DBE000BDBBA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; name = .gitignore; path = gtfotp/.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 		7CEB1A272B0F1C2A000BDBBA = {
 			isa = PBXGroup;
 			children = (
+				7CEB1A5D2B0F1D8E000BDBBA /* README.md */,
+				7CEB1A5F2B0F1DBE000BDBBA /* .gitignore */,
 				7CEB1A322B0F1C2A000BDBBA /* gtfotp */,
 				7CEB1A432B0F1C2C000BDBBA /* gtfotpTests */,
 				7CEB1A4D2B0F1C2C000BDBBA /* gtfotpUITests */,
@@ -231,6 +237,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CEB1A602B0F1DBE000BDBBA /* .gitignore in Resources */,
+				7CEB1A5E2B0F1D8E000BDBBA /* README.md in Resources */,
 				7CEB1A3B2B0F1C2C000BDBBA /* Preview Assets.xcassets in Resources */,
 				7CEB1A382B0F1C2C000BDBBA /* Assets.xcassets in Resources */,
 			);
